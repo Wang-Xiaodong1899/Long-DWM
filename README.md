@@ -1,6 +1,6 @@
 # Long-DWM
 
-Code is coming soon. Need time to clean up the code.
+**[2026.10.05]** 👋👋👋 We released and open-sourced our new work ["SimForcing: Distilling Simulation Motion Priors into Real-Domain Robot World Models"](https://arxiv.org/abs/2610.06598), a motion distilltion framework for robot world models. Feel free to [check](https://github.com/Wang-Xiaodong1899/SimForcing).
 
 Official repo for：
 - "**LongDWM**: Cross-Granularity Distillation for Building a Long-Term Driving World Model", https://arxiv.org/abs/2506.01546
